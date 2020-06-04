@@ -2,7 +2,7 @@
 * Created automate tool that send out text messages to 150 people daily.
 
 # Project Challenges
-* Due to the large number of recipients and chinese text, the local service provider restricted bulk messaging. The only solution is to send out text at an interval time to prevent getting error 38.
+* Due to the large number of recipient and chinese text, the local service provider restricted bulk messaging. The only solution is to send out text at an interval time to prevent getting error 38.
 
 ## Code and Resources Used 
 **Python Version:** 3.7.6 <br />
